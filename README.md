@@ -8,9 +8,38 @@ Node provides the RESTful API. React provides the frontend and accesses the API.
 
 ## RestEndPoint
  The server implementation should support GET, POST, PUT, and DELETE.
-### GET Request - Gets all ToDos
+ 
+#### GET Request - Gets all ToDos
 
-``GET /api/todos``
+    GET /todos
+
+
+
+
+#### POST Request - Creates a new ToDo
+
+    POST /todos
+
+POST Body
+
+    {"description":"clean my room"}
+
+
+
+
+#### PUT Request - Updates a ToDo
+
+    PUT todos/[id]
+
+PUT Body
+
+    {"description":"change to sweep"}
+
+
+#### DELETE Request - Deletes a ToDo
+
+    DELETE /todos/[id]
+
 
 
 
