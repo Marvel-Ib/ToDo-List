@@ -1,13 +1,16 @@
-## Click to see the live app:  [Todo-List](https://marvel-pern-todo.herokuapp.com/)
+## Click to see the live app:  [Todo-List](hthttps://github.com/Marvel-Ibtps://marvel-pern-todo.herokuapp.com/)
 
 ## About 
-A Node app built with ExpressJs React and PostgreSql. For demonstration purposes and a tutorial.
+A Node app built with ExpressJs React and PostgreSql.
 
-Node provides the RESTful API. Express provides the frontend and accesses the API. React stores the data.
+Node provides the RESTful API. React provides the frontend and accesses the API. PostgreSql stores the data.
 
 
 ## RestEndPoint
+ The server implementation should support GET, POST, PUT, and DELETE.
+### GET Request - Gets all ToDos
 
+``GET /api/todos``
 
 
 
