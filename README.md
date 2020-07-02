@@ -21,7 +21,7 @@ Install the dependencies
 ``$ npm install``
 
 ## Serve
-To serve in the browser  run`` npm start`` in both directories
+To serve in the browser  run in both directories
 ``$ npm start``
 
 
