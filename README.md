@@ -1,9 +1,9 @@
 ## Click to see the live app:  [Todo-List](https://marvel-pern-todo.herokuapp.com/)
 
 ## About 
-A Node app built with MongoDB and Angular. For demonstration purposes and a tutorial.
+A Node app built with ExpressJs React and PostgreSql. For demonstration purposes and a tutorial.
 
-Node provides the RESTful API. Angular provides the frontend and accesses the API. MongoDB stores like a hoarder.
+Node provides the RESTful API. Express provides the frontend and accesses the API. React stores the data.
 
 
 ## RestEndPoint
