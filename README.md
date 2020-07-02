@@ -12,7 +12,7 @@
 Sourced from the Stoic Programmer 
 
 
-<img src="url/relativePath">
+<img src="demo/demo.png">
 
 ## Usage
 ### Installation
