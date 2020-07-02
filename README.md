@@ -1,4 +1,4 @@
-## Click to see the live app:  [Todo-List](hthttps://github.com/Marvel-Ibtps://marvel-pern-todo.herokuapp.com/)
+## Click to see the live app:  [Todo-List](https://github.com/Marvel-Ibtps://marvel-pern-todo.herokuapp.com/)
 
 ## About 
 A Node app built with ExpressJs React and PostgreSql.
