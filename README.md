@@ -12,7 +12,7 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 
 
 ## FrontEnd 
-Sourced from the Stoic Programmer 
+Template from the Stoic Programmer 
 
 
 <img src="demo/demo.png">
@@ -20,7 +20,7 @@ Sourced from the Stoic Programmer
 ## Usage
 ### Installation
 
-1. clone the repo git clone git@github.com:scotch-io/node-todo
+1. clone the repo  `` $ git clone https://github.com/Marvel-Ib/ToDo-List.git ``
 
 2. Change directories into the Client and Server folder Install the dependencies ``$ npm install``
 
